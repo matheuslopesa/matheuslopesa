@@ -1,6 +1,6 @@
 <h1 align='center'>Olá!👋🏻<b>Eu sou o Matheus Lopes</b>🧐</h1>
-<h3 align='center'><i>Estudando para ser Dev Front End</i></h3>
-<p align='center'><i>Aberto para oportunidades na área.</i></a>
+<h3 align='center'><i>Estudando 📚 Dev Front End</i></h3>
+<p align='center'><i>Aberto para oportunidades.</i></a>
 
 <div align='center'> 
   <a href="https://instagram.com/matheuslopesa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
