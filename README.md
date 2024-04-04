@@ -1,5 +1,7 @@
 <h1 align='center'>Olá!👋🏻<b>Eu sou o Matheus Lopes</b>🧐</h1>
-<h3 align='center'><i>Estudando 📚 Front End Developer</i></h3>
+<h3 align ='center'>Atualmente Cursando</h3>
+<h3 align='center'><i>📚 Análise e Desenvolvimento de Sistemas - UNISINOS</i></h3>
+
 <p align='center'><i>Aberto para oportunidades.</i></a>
 
 <div align='center'> 
